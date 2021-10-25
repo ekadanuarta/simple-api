@@ -7,10 +7,10 @@
 <meta name="description" content="Situs web REST API yang menyediakan berbagai macam Api untuk mengembangkan aplikasimu.">
 <meta name="robots" content="archive, follow, imageindex, index, odp, snippet, translate">
 <meta name="author" content="Loli Killers">
-<title> RAMA - REST APIs</title>
-<meta property="og:site_name" name="og:site_name" content="RAMA APIs">
-<meta property="og:title" name="og:title" content="RAMA - REST APIs">
-<meta property="og:url" name="og:url" content="https://r-apikey.herokuapp.com/">
+<title> TOBI - REST APIs</title>
+<meta property="og:site_name" name="og:site_name" content="TOBI APIs">
+<meta property="og:title" name="og:title" content="TOBI - REST APIs">
+<meta property="og:url" name="og:url" content="https://ekagans02.herokuapp.com/">
 <meta property="og:image" name="og:image" content="https://telegra.ph/file/c793578cfabf67d292dd0.png">
 <meta property="og:description" name="og:description" content="Situs web REST API yang menyediakan berbagai macam fitur untuk mengembangkan aplikasimu.">
 <link rel="apple-touch-icon" sizes="57x57" href="https://telegra.ph/file/c793578cfabf67d292dd0.png">
@@ -43,7 +43,7 @@
 <div class="sidebar-wrapper">
 <div class="logo">
 <a href="javascript:void(0)" class="simple-text logo-mini">
-RAMA
+TOBI
 </a>
 <a href="javascript:void(0)" class="simple-text logo-normal">
 Rest Api's
@@ -120,9 +120,9 @@ Rest Api's
 </div>
 <ul class="nav">
 <li>
-<a href="https://github.com/RAMA">
+<a href="https://github.com/ekadanuarta">
 <i class="tim-icons icon-pencil"></i>
-<p>RAMA</p>
+<p>ekadanuarta</p>
 </a>
 </li>
 </ul>
@@ -220,7 +220,7 @@ Profile
 <h2 class="mb-1 number-font">
 <div class="visitor" id="visitor">00</div>
 </h2>
-<small class="fs-12 text-success">Total visitor from r-apikey.herokuapp.com</small>
+<small class="fs-12 text-success">Total visitor from ekagans02.herokuapp.com</small>
 </div>
 <span class="text-info fs-35 dash1-iocns bg-info-transparent border-info"><i class="fa fa-eye" aria-hidden="true"></i></span>
 </div>
@@ -256,7 +256,7 @@ Profile
 <label for="URL">Enter Your ApiKey:</label>
 <input type="text" class="form-control" id="responapikeymucoooookkk" placeholder="apikey" name="apiKey" required="">
 <small id="textHelp" class="font">Gapunya Apikey om? Contact me on
-<a href="https://wa.me/6281515589573">
+<a href="https://wa.me/380944292908">
 Whatsapp
 </a>
 </small>
@@ -387,7 +387,7 @@ E K A  D A N U
 <script>
 document.write(new Date().getFullYear())
 </script> made with <i class="tim-icons icon-heart-2"></i> by
-<a href="javascript:void(0)" target="_blank">RAMA</a> for a better web.
+<a href="javascript:void(0)" target="_blank">ekadanuarta</a> for a better web.
 </div>
 </div>
 </footer>
@@ -418,7 +418,7 @@ document.write(new Date().getFullYear())
 </li>
 <li class="button-container">
 <a class="text-center">Contact Me</a>
-<a href="https://wa.me/6281515589573?text=Hallo%20bang" target="_blink" class="btn btn-success btn-block btn-round">Whatsapp</a>
+<a href="https://wa.me/380944292908?text=Hallo%20bang" target="_blink" class="btn btn-success btn-block btn-round">Whatsapp</a>
 <a href="https://t.me/ekagans" target="_blink" class="btn btn-info btn-block btn-round">Telegram</a>
 <a href="https://instagram.com/ekagans_02" target="_blink" class="btn btn-primary btn-block btn-round">Instagram</a>
 </li>
