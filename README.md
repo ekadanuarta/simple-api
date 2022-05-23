@@ -9,8 +9,8 @@
 </p>
 
 <p align='center'>
-   <a href="https://wa.me/380944292908?text=assalamualaikum"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/ekagans_02"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://wa.me/994400295560?text=assalamualaikum"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/itsme_danuu"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
 
