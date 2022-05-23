@@ -5,14 +5,12 @@
 <a href="#"><img title="TOBI APIs" src="https://img.shields.io/badge/TOBI APIs-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ekadanuarta"><img title="Author" src="https://img.shields.io/badge/Author-DANU GANS-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ekadanuarta"><img title="Author" src="https://img.shields.io/badge/Author-ItsmeDanuu-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align='center'>
-   <a href="https://wa.me/994400295560?text=assalamualaikum"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/itsme_danuu"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
-</P>
-
+   <a href="https://wa.me/994400295560" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+   <a href="https://www.instagram.com/itsme_danuu" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 # Deploy Heroku
 
@@ -24,6 +22,8 @@ Create New App ( App Name For Example : tes-api)
 
 Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
+
+ 
 Open `CMD` and Login Heroku
 
 ```cmd
